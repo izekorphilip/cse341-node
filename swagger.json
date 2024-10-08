@@ -6,10 +6,9 @@
     "version": "1.0.0",
     "description": ""
   },
-  "host": "localhost:833",
+  "host": "cse341-node-x5ih.onrender.comlocalhost:833",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
