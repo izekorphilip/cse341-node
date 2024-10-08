@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "description": ""
   },
-  "host": "cse341-node-x5ih.onrender.comlocalhost:833",
+  "host": "cse341-node-x5ih.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
